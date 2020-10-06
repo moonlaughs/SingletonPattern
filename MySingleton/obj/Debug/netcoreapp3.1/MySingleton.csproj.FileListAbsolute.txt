@@ -1,0 +1,13 @@
+C:\Users\asus\Desktop\2Semester\SoftwareDesignPatterns\MySingleton\MySingleton\bin\Debug\netcoreapp3.1\MySingleton.exe
+C:\Users\asus\Desktop\2Semester\SoftwareDesignPatterns\MySingleton\MySingleton\bin\Debug\netcoreapp3.1\MySingleton.deps.json
+C:\Users\asus\Desktop\2Semester\SoftwareDesignPatterns\MySingleton\MySingleton\bin\Debug\netcoreapp3.1\MySingleton.runtimeconfig.json
+C:\Users\asus\Desktop\2Semester\SoftwareDesignPatterns\MySingleton\MySingleton\bin\Debug\netcoreapp3.1\MySingleton.runtimeconfig.dev.json
+C:\Users\asus\Desktop\2Semester\SoftwareDesignPatterns\MySingleton\MySingleton\bin\Debug\netcoreapp3.1\MySingleton.dll
+C:\Users\asus\Desktop\2Semester\SoftwareDesignPatterns\MySingleton\MySingleton\bin\Debug\netcoreapp3.1\MySingleton.pdb
+C:\Users\asus\Desktop\2Semester\SoftwareDesignPatterns\MySingleton\MySingleton\obj\Debug\netcoreapp3.1\MySingleton.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\2Semester\SoftwareDesignPatterns\MySingleton\MySingleton\obj\Debug\netcoreapp3.1\MySingleton.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\2Semester\SoftwareDesignPatterns\MySingleton\MySingleton\obj\Debug\netcoreapp3.1\MySingleton.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\2Semester\SoftwareDesignPatterns\MySingleton\MySingleton\obj\Debug\netcoreapp3.1\MySingleton.AssemblyInfo.cs
+C:\Users\asus\Desktop\2Semester\SoftwareDesignPatterns\MySingleton\MySingleton\obj\Debug\netcoreapp3.1\MySingleton.dll
+C:\Users\asus\Desktop\2Semester\SoftwareDesignPatterns\MySingleton\MySingleton\obj\Debug\netcoreapp3.1\MySingleton.pdb
+C:\Users\asus\Desktop\2Semester\SoftwareDesignPatterns\MySingleton\MySingleton\obj\Debug\netcoreapp3.1\MySingleton.genruntimeconfig.cache
